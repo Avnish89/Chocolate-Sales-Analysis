@@ -1,4 +1,7 @@
-Sales Analysis Summary for Chocolate Company
+Sales Analysis Summary for Chocolate Company:
+
+The company experienced steady growth in total sales and profit, driven by strong demand for premium and seasonal products. Shipment times were mostly on track, with some delays noted due to supply chain issues. Product sales showed high performance from limited-edition items, while top-performing salespeople significantly contributed to overall profit. Continued focus on shipment efficiency and supporting high achievers will help maintain this growth.
+
 ![Capture](https://github.com/user-attachments/assets/d1b08ec6-28d0-4718-aadc-1f01708a081d)
 
 1. Total Sales:
